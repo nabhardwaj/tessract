@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "show your employees in a creative box Tessract",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm run test"
   },
