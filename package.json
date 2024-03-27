@@ -1,0 +1,35 @@
+{
+  "name": "tessract",
+  "version": "1.0.0",
+  "description": "show your employees in a creative box Tessract",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabhardwaj/tessract.git"
+  },
+  "keywords": [
+    "tessract",
+    "of",
+    "organization",
+    "employees",
+    "box",
+    "employees",
+    "view",
+    "like",
+    "a",
+    "box",
+    "employees",
+    "view",
+    "like",
+    "tessract"
+  ],
+  "author": "Ashwani bhardwaj (bhardwaj.ashwani92@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabhardwaj/tessract/issues"
+  },
+  "homepage": "https://github.com/nabhardwaj/tessract#readme"
+}
